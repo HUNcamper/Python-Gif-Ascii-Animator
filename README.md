@@ -1,3 +1,6 @@
+# What's different in this fork
+The individual frames are saved into txt files rather than printing it to the console.
+
 # Python-Gif-Ascii-Animator
 This project intends to convert an animated gif into an ascii representation and print this representation into the console. 
 
