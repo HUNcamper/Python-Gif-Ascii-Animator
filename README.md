@@ -1,5 +1,5 @@
 # What's different in this fork
-The individual frames are saved into txt files rather than printing it to the console.
+The individual frames are saved into txt files rather than printing it to the console. Usage from command line implemented, you can drag & drop gifs into the script to convert them automatically. Run the script by itself to play the last converted gif file!
 
 # Python-Gif-Ascii-Animator
 This project intends to convert an animated gif into an ascii representation and print this representation into the console. 
